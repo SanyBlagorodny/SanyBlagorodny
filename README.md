@@ -6,18 +6,28 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Александр!</h1>
+# Привет👋 Меня зовут Александр!
+
+###
+
+## Содержание
+- [Обо мне](#обо-мне)
+- [Технологии](#технологии)
+- [Сайт-портфолио](#сайт-портфолио)
+- [Избранные проекты](#избранные-проекты)
+- [Моя статистика](#моя-статистика)
+- [Как со мной связаться](#как-со-мной-связаться)
 
 ###
 
 <div align="center">
-  <a href="https://t.me/SanyBlagorodny" target="_blank">
+  <a href="https://t.me/SanyBlagorodny" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=aseliverstov0056@gmail.com&su=Запрос на сотрудничество (Frontend/Backend)&body=Здравствуйте, Александр," target="_blank" title="Написать письмо через Gmail">
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=aseliverstov0056@gmail.com&su=Запрос на сотрудничество (Frontend/Backend)&body=Здравствуйте, Александр," target="_blank" rel="noopener noreferrer" title="Написать письмо через Gmail">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" height="25" alt="gmail logo" />
   </a>
-  <a href="https://wa.me/79850076826" target="_blank">
+  <a href="https://wa.me/79850076826" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff" height="25" alt="WhatsApp logo" />
   </a>
 </div>
@@ -30,7 +40,7 @@
 
 ###
 
-<h3 align="left">📖  Обо мне</h3>
+### 📖  Обо мне
 
 <p align="left">
 Инженер с 10+ годами опыта управления сложными проектами, переквалифицировался во Frontend‑разработку.
@@ -49,7 +59,7 @@
 
 ###
 
-<h3 align="left">👨‍💻 Технологии:</h3>
+### 👨‍💻 Технологии:
 
 ### Языки:
 
@@ -144,22 +154,43 @@
 ### 🌐 Сайт‑портфолио
 
 <div align="left">
-  <a href="https://github.com/SanyBlagorodny/My-Portfolio-website" target="_blank" title="Исходники моего портфолио">
+  <a href="https://github.com/SanyBlagorodny" target="_blank" rel="noopener noreferrer" title="Мой профиль GitHub">
     <img src="https://img.shields.io/badge/Repo-My%20Portfolio-000?style=for-the-badge&logo=github" alt="Репозиторий портфолио" />
   </a>
+  <img width="8" />
+  <a href="https://sanyblagorodny.github.io/My-Portfolio-website/" target="_blank" rel="noopener noreferrer" title="Открыть сайт портфолио">
+    <img src="https://img.shields.io/badge/Website-My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Сайт портфолио" />
+  </a>
 </div>
+
+[![Превью портфолио](assets/portfolio-hero.png)](https://sanyblagorodny.github.io/My-Portfolio-website/)
+
+<details>
+  <summary><b>Скриншоты сайта</b> (развернуть)</summary>
+  <br>
+  <img src="assets/portfolio-hero.png" alt="Главный экран портфолио" width="800" />
+  <br><br>
+  <img src="assets/portfolio-projects.png" alt="Раздел проектов" width="800" />
+</details>
 
 ### 📌 Избранные проекты
 
 <div align="center">
-  <a href="https://github.com/SanyBlagorodny/My-Portfolio-website" target="_blank">
+  <a href="https://github.com/SanyBlagorodny/My-Portfolio-website" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanyBlagorodny&repo=My-Portfolio-website&theme=dracula&hide_border=false" alt="My-Portfolio-website" />
   </a>
 </div>
 
+<details>
+  <summary><b>My‑Portfolio‑website</b> — Vue 3, Vite, GitHub Pages</summary>
+  SSR‑like SSG, i18n, адаптив, Lighthouse 95+. 
+  <a href="https://sanyblagorodny.github.io/My-Portfolio-website/" target="_blank" rel="noopener noreferrer">Demo</a> · 
+  <a href="https://github.com/SanyBlagorodny/My-Portfolio-website" target="_blank" rel="noopener noreferrer">Repo</a>
+</details>
+
 ###
 
-<h3 align="left">🔥  Моя статистика:</h3>
+### 🔥  Моя статистика:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SanyBlagorodny&locale=ru&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
@@ -176,15 +207,15 @@
 
 <div align="left">
   <img width="8" />
-  <a href="https://wa.me/79850076826" target="_blank">
+  <a href="https://wa.me/79850076826" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff" alt="Написать в WhatsApp" />
   </a>
   <img width="8" />
-  <a href="https://t.me/SanyBlagorodny" target="_blank">
+  <a href="https://t.me/SanyBlagorodny" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff" alt="Написать в Telegram" />
   </a>
   <img width="8" />
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=aseliverstov0056@gmail.com&su=Запрос на сотрудничество (Frontend/Backend)&body=Здравствуйте, Александр," target="_blank" title="Написать письмо через Gmail">
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=aseliverstov0056@gmail.com&su=Запрос на сотрудничество (Frontend/Backend)&body=Здравствуйте, Александр," target="_blank" rel="noopener noreferrer" title="Написать письмо через Gmail">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Написать на Gmail" />
   </a>
 </div>
