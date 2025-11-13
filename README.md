@@ -144,7 +144,7 @@
 ### 🌐 Сайт‑портфолио
 
 <div align="left">
-  <a href="https://github.com/SanyBlagorodny/My-Portfolio-website" target="_blank" title="Исходники моего портфолио">
+  <a href="https://github.com/SanyBlagorodny/My-Portfolio-website](https://sanyblagorodny.github.io/My-Portfolio-website/" target="_blank" title="Исходники моего портфолио">
     <img src="https://img.shields.io/badge/Repo-My%20Portfolio-000?style=for-the-badge&logo=github" alt="Репозиторий портфолио" />
   </a>
 </div>
