@@ -39,7 +39,7 @@
 </div>
 
 ###
-
+<a id="обо-мне"></a>
 ### 📖  Обо мне
 
 <p align="left">
@@ -58,7 +58,7 @@
 </p>
 
 ###
-
+<a id="технологии"></a>
 ### 👨‍💻 Технологии:
 
 ### Языки:
@@ -151,6 +151,7 @@
 
 ###
 
+<a id="сайт-портфолио"></a>
 ### 🌐 Сайт‑портфолио
 
 <div align="left">
@@ -173,6 +174,7 @@
   <img src="assets/portfolio-projects.png" alt="Раздел проектов" width="800" />
 </details>
 
+<a id="избранные-проекты"></a>
 ### 📌 Избранные проекты
 
 <div align="center">
@@ -190,6 +192,7 @@
 
 ###
 
+<a id="моя-статистика"></a>
 ### 🔥  Моя статистика:
 
 <div align="center">
@@ -203,6 +206,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanyBlagorodny&locale=ru&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
+<a id="как-со-мной-связаться"></a>
 ### Как со мной связаться:
 
 <div align="left">
