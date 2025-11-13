@@ -155,12 +155,8 @@
 ### 🌐 Сайт‑портфолио
 
 <div align="left">
-  <a href="https://github.com/SanyBlagorodny" target="_blank" rel="noopener noreferrer" title="Мой профиль GitHub">
-    <img src="https://img.shields.io/badge/Repo-?style=for-the-badge&logo=github&logoColor=white&color=555555" alt="Репозиторий портфолио" />
-  </a>
-  <img width="8" />
   <a href="https://sanyblagorodny.github.io/My-Portfolio-website/" target="_blank" rel="noopener noreferrer" title="Открыть сайт портфолио">
-    <img src="https://img.shields.io/badge/Website-?style=for-the-badge&logo=google-chrome&logoColor=white&color=555555" alt="Сайт портфолио" />
+    <img src="https://img.shields.io/static/v1?label=Website&message=&color=555555&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Сайт портфолио" />
   </a>
 </div>
 
