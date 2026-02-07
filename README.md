@@ -155,10 +155,7 @@
 ### 🌐 Сайт‑портфолио
 
 <div align="left">
-  <a href="https://github.com/SanyBlagorodny/My-Portfolio-website" target="_blank" rel="noopener noreferrer" title="Открыть репозиторий веб-сайта">
-    <img src="https://img.shields.io/badge/Repo-%20-555555?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий" />
-  </a>
-  <img width="8" />
+   <img width="8" />
   <a href="https://sanyblagorodny.github.io/My-Portfolio-website/" target="_blank" rel="noopener noreferrer" title="Открыть сайт портфолио">
     <img src="https://img.shields.io/badge/Website-%20-555555?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Сайт портфолио" />
   </a>
@@ -175,38 +172,9 @@
 </details>
 
 <a id="избранные-проекты"></a>
-### 📌 Избранные проекты
-
-<div align="center">
-  <a href="https://github.com/SanyBlagorodny/My-Portfolio-website" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanyBlagorodny&repo=My-Portfolio-website&theme=dracula&hide_border=false" alt="My-Portfolio-website" />
-  </a>
-</div>
-
-<details>
-  <summary><b>My‑Portfolio‑website</b> — Vue 3, Vite, GitHub Pages</summary>
-  SSR‑like SSG, i18n, адаптив, Lighthouse 95+. 
-  <a href="https://sanyblagorodny.github.io/My-Portfolio-website/" target="_blank" rel="noopener noreferrer">Demo</a> · 
-  <a href="https://github.com/SanyBlagorodny/My-Portfolio-website" target="_blank" rel="noopener noreferrer">Repo</a>
-</details>
-
-###
 
 <a id="моя-статистика"></a>
-### 🔥  Моя статистика:
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SanyBlagorodny&locale=ru&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanyBlagorodny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=ru&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanyBlagorodny&locale=ru&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-<a id="как-со-мной-связаться"></a>
 ### Как со мной связаться:
 
 <div align="left">
